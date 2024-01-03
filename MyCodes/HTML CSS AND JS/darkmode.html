@@ -1,0 +1,32 @@
+<svg display="none">
+    <symbol id="light" viewBox="0 0 24 24">
+        
+    </symbol>
+
+    <symbol id="dark" viewBox="0 0 24 24">
+
+    </symbol>
+</svg>
+
+<label class="switch">
+    <input class="switch__input" type="checkbox" role="switch" name="dark" />
+    <svg class="switch__icon" width="24" height="24" aria-hidden="true">
+        <use href="#light" />
+    </svg>
+
+    <svg class="switch__icon" width="24" height="24" aria-hidden="true">
+        <use href="#dark" />
+    </svg>
+
+    <span classs="switch__inner"></span>
+
+    <span class="switch__inner-icons">
+        <svg class="switch__icon" width="24" height="24" aria-hidden="true">
+            <use href="#light" />
+        </svg>
+
+        <svg class="switch__icon" width="24" height="24" aria-hidden="true">
+            <use href="#dark" />
+        </svg>
+    </span>
+</label>

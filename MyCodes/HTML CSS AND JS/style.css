@@ -1,0 +1,78 @@
+  body {  background-color: black;
+         
+  }
+  h1 {
+    color: white;
+    font-family: "Press Start 2P";
+    border-top-style: dashed;
+    border-bottom-style: dashed;
+    border-left-style: dotted;
+    border-right-style: dotted;
+    border-color: purple; 
+  }
+ 
+  p{
+    color: lime;
+    font-family: "consolas";
+    font-style: oblique;
+    font-weight: bolder;
+    text-decoration: red double underline;
+    font-size: 30px;
+    border-style: solid;
+    border-width: 5px;
+    padding: 20px;
+    border-radius: 100px;
+    border-color: gold;
+  }
+#box1{
+  border: 1px solid;
+  height: 300px;
+  width: 300px;
+  background-color: white;
+  position: relative;
+}
+#box2{
+  border: 1px solid;
+  height: 250px;
+  width: 250px;
+  background-color: black;
+  position: absolute;
+  top: 25px;
+  left: 25px;
+}
+#box3{
+  border: 1px solid;
+  height: 200px;
+  width: 200px;
+  background-color: white;
+  position: absolute;
+  top: 25px;
+  left: 25px;
+}
+#box4{
+  border: 1px solid;
+  height: 150px;
+  width: 150px;
+  background-color: black;
+  position: absolute;
+  top: 25px;
+  left: 25px;
+}
+#box5{
+  border: 1px solid;
+  height: 100px;
+  width: 100px;
+  background-color: white;
+  position: absolute;
+  top: 25px;
+  left: 25px;
+}
+#box6{
+  border: 1px solid;
+  height: 50px;
+  width: 50px;
+  background-color: red;
+  position: absolute;
+  top: 25px;
+  left: 25px;
+}

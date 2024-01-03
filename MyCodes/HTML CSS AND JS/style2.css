@@ -1,0 +1,43 @@
+body{
+    background-image: url(Forest.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center ;
+    background-size: cover;
+    border: 2px solid;
+    margin: 100px;
+    margin
+}
+h1{
+    background: linear-gradient(to right ,skyblue,white);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+pre {
+    background: linear-gradient(to left ,skyblue,white);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#box1{
+    border: 5px solid;
+    width: 250px;
+    height: 250px;
+    font-size: 22px;
+    background:purple;
+    padding: 20px;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    text-decoration-color: white;
+}
+#box2{
+    border: 5px solid;
+    width: 250px;
+    height: 250px;
+    font-size: 22px;
+    background:white;
+    padding: 20px;
+    margin: 50px;
+    margin-left: 200px;
+}

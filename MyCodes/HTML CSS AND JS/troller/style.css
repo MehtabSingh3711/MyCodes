@@ -1,0 +1,18 @@
+
+body{background-color:rgb(23, 23, 23);}
+
+h1{font-size: 50px;
+font-family:'Press Start 2P';
+background: linear-gradient(to right ,rgb(181, 74, 211), rgb(98, 242, 98), black,white,green);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+ p{
+        font-size: 30px;
+        text-align: center;
+        background: linear-gradient(to right ,rgb(181, 74, 211), rgb(98, 242, 98));
+    -webkit-background-clip: text;
+    color: transparent;
+    font-family: 'Press Start 2P';
+    }
+img{float: left;}
